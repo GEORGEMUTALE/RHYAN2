@@ -7,7 +7,7 @@
 ## What is cancer?
 
 Cancer is a formidable adversary, affecting millions of lives worldwide. It is a complex group of diseases characterized by the abnormal growth of cells, often forming tumors that can invade surrounding tissues.
-### causes of cancer
+### Causes of cancer
 
 Inherited Mutations: Some individuals may inherit genetic mutations from their parents that predispose them to certain types of cancer. These genetic factors can increase the risk of cancer development.
 Environmental Factors:
